@@ -35,5 +35,14 @@ oho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+## Test
+
+<a href="https://developer.mozilla.org/de/docs/Glossary/HTML5">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+</a>
+<a href="https://developer.mozilla.org/de/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</a>
+
 
 
