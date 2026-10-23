@@ -1,5 +1,5 @@
 ## About me
-oho
+hello world
 
 ## Tech Skills
 
@@ -19,10 +19,7 @@ oho
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </a>
 <a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/-Create React App-09D3AC?style=flat&logo=createreactapp&logoColor=white"/>
-</a>
-<a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/-Create React App-09D3AC?style=flat&logo=createreactapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/>
 </a>
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
